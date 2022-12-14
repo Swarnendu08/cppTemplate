@@ -114,5 +114,5 @@ int main()
 
 
 /**
- * file location: E:\A. C++\programs\competitive
+ * /home/swarnendu/Desktop/C++/competitive
 **/
